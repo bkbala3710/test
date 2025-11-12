@@ -3,3 +3,4 @@
 3rd line I want this as well after 2nd line
 commit
 check
+commit
