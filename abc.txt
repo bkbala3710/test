@@ -1,9 +1,3 @@
 1st line
 2nd line I want this as well after 2nd line
 3rd line I want this as well after 2nd line
-commit
-check
-commit
-asasdasdasd
-checkzxczxc
-checkasdas
