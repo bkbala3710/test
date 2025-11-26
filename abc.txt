@@ -1,4 +1,6 @@
 1st line
-2nd line I want this as well after 2nd line
-3rd line I want this as well after 2nd line
-4th line 
+2
+3
+4
+5
+6
