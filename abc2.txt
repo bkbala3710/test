@@ -18,4 +18,8 @@ lin 16
 lin 17
 lin 18
 lin 19
+lin 20
+lin 31
+;lin12
+
 
