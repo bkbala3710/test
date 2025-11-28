@@ -1,10 +1,10 @@
 1st line
 2
-3
-4
-5
-6
-7
+3 line
+4 lne
+5 line
+6 line
+7 line
 8
 9
 10
